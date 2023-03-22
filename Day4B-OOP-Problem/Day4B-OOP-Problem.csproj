@@ -47,6 +47,7 @@
     <Compile Include="MaxMin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StarPattern.cs" />
     <Compile Include="UniqueElements.cs" />
   </ItemGroup>
   <ItemGroup>
